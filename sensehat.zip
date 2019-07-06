@@ -1,0 +1,26 @@
+--2016-12-21 18:41:12--  http://bit.ly/1QF1U3B
+Resolving bit.ly (bit.ly)... 67.199.248.11, 67.199.248.10
+Connecting to bit.ly (bit.ly)|67.199.248.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://docs.google.com/a/core-matrix.co.uk/uc?authuser=0&id=0B2-00drKdqF0NW9ya2V3eU1XMTg&export=download [following]
+--2016-12-21 18:41:12--  https://docs.google.com/a/core-matrix.co.uk/uc?authuser=0&id=0B2-00drKdqF0NW9ya2V3eU1XMTg&export=download
+Resolving docs.google.com (docs.google.com)... 216.58.209.206, 2a00:1450:400d:807::200e
+Connecting to docs.google.com (docs.google.com)|216.58.209.206|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://docs.google.com/a/core-matrix.co.uk/uc?id=0B2-00drKdqF0NW9ya2V3eU1XMTg&export=download [following]
+--2016-12-21 18:41:13--  https://docs.google.com/a/core-matrix.co.uk/uc?id=0B2-00drKdqF0NW9ya2V3eU1XMTg&export=download
+Reusing existing connection to docs.google.com:443.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://doc-0c-b4-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/5jmq1fsphhsl9a68kbl221vb7uhe8uoc/1482336000000/16106182834319667281/*/0B2-00drKdqF0NW9ya2V3eU1XMTg?e=download [following]
+Warning: wildcards not supported in HTTP.
+--2016-12-21 18:41:13--  https://doc-0c-b4-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/5jmq1fsphhsl9a68kbl221vb7uhe8uoc/1482336000000/16106182834319667281/*/0B2-00drKdqF0NW9ya2V3eU1XMTg?e=download
+Resolving doc-0c-b4-docs.googleusercontent.com (doc-0c-b4-docs.googleusercontent.com)... 216.58.214.33, 2a00:1450:4001:804::2001
+Connecting to doc-0c-b4-docs.googleusercontent.com (doc-0c-b4-docs.googleusercontent.com)|216.58.214.33|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3495 (3.4K) [application/zip]
+Saving to: ‘1QF1U3B’
+
+     0K ...                                                   100% 4.12M=0.001s
+
+2016-12-21 18:41:14 (4.12 MB/s) - ‘1QF1U3B’ saved [3495/3495]
+
